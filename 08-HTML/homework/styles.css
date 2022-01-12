@@ -1,0 +1,12 @@
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: burlywood;
+    padding: 50px;
+    border: rgb(23, 139, 0) 20px;
+}
+
+#spanId {
+    size: 18px;
+    margin: 50px;
+}
